@@ -1,2 +1,2 @@
-# selenium-reddit-scraper
-Scrape top 10 subreddits on Reddit's popular page using Selenium and AWS lambda
+# Selenium-YouTube-Scraper
+Scrape top 10 videos on YouTube's trending page using Selenium and AWS lambda
