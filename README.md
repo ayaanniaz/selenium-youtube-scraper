@@ -1,6 +1,6 @@
 # Selenium YouTube Scraper
 
-This project runs a Python-based web scraper that uses Selenium WebDriver to fetch trending YouTube videos. It extracts key details such as video titles, URLs, thumbnails, channel names, descriptions, views, and upload times. The data is saved in a CSV file, and the script can optionally email the data as an attachment.
+This project implements an automated web scraper using Python and Selenium to extract YouTube's top 10 trending videos and send them as a CSV via email. It runs on a DigitalOcean Linux VM with cron jobs for scheduled execution, ensuring seamless automation.
 
 ## Features
 - Scrapes trending videos from YouTube's Trending page.
