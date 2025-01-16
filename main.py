@@ -56,7 +56,7 @@ def send_email():
   sender_email = "sendtrend395@gmail.com"
   receiver_email = "sendtrend395@gmail.com"
   subject = "Youtube Trending Videos"
-  password = "kwrl bbrj rmbd dqqd"
+  password = "YOUR GMAIL PASSWORD"
   body = 'Please find the attached file'
 
   # Create the MIMEMultipart object and set up the headers
