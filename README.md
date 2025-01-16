@@ -32,7 +32,7 @@ Before you get started, make sure you have the following:
    ```bash
    pip install -r requirements.txt
    ```
-(Though I did use a virtual environment in this project, using one is strongly recommended to safely store credentials and maintain isolated dependencies.)
+(Though I did not use a virtual environment in this project, using one is strongly recommended to safely store credentials and maintain isolated dependencies.)
 
 3. Configure email settings:
    - Create a `.env` file in the project directory with your email credentials:
