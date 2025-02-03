@@ -131,7 +131,7 @@ python main.py
 ```
 The script will generate the `trending.csv` file and send it via email.
 
-### 8. Automate Using Cron (Optional)
+### 8. Automate Using Cron
 To schedule the script to run periodically, use `cron`:
 ```bash
 crontab -e
